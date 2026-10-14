@@ -1,0 +1,46 @@
+1. Planning Game
+
+2. Small releases
+
+3. Metaphor
+ - shared simple story
+ - high level idea
+
+4. Simple desing
+ - build only what neccessary
+
+5. test driven dev
+- writing tests before code
+- ensures reliability
+
+6. refactoring
+- simplfy
+- improve perf.
+
+7. pair prog.
+- one writes
+- one reviews
+
+8. collectiv code own.
+- any dev can modify
+- no singular ownership
+
+9. cont. integ.
+- integrate freq.
+- auto tested
+
+10. 40hr work week
+- sustainable
+- reasonability
+
+11. Onsite cust.
+- representative
+- feedback
+- clarifications
+
+12. Coding standards
+- readable, maintainable
+- consistency
+
+Why use XP
+ -
