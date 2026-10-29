@@ -1,0 +1,24 @@
+Part A.
+
+Student - Will Simmons      Line: 3
+
+Working project name:
+
+Category - Entertainment Software SP08
+
+A1. Uml Class Diagram:
+
+A2. Uml Activity Diagram:
+
+A3. Which design choice or uncertainty do the diagrams help explain?
+
+A4. Next three milestones and observable evidence?
+
+A5. Verification of the core workflow
+
+
+Part B.
+
+B1. Description and Categorisation
+I am building an endless runner/explorer game for casual gamers that enjoy exploring a procedurally generated evironment with a game that can be long or short.
+You have to run away from a farmer as a rabbit going in burrows and avoiding rocks.
